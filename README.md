@@ -8,9 +8,9 @@ $ celefetch
    ',clc,      ;xNMMWXOONMMWk;              DE: KDE Plasma
   ';cll:'     ;OWMMNxc,,dNMMWO:'            WM: i3
   ;clll;'   ':0WMMNd,   'oXMMW0c'           Shell: Zsh
- ,cllll;'  'cKMMMXo'     'lKMMMKc'          Editor: Vim
-';lllll:' 'lXMMMKl'       'cKMMMKc'   '''   Passions: Hip Hop, Football, Gaming
-':llllll:':0WMW0c'         'cKWWNx, ,;;,    Other: OII (Olimpiadi Italiane di Informatica) finalist
+ ,cllll;'  'cKMMMXo'     'lKMMMKc'          Editor: Vim/VSCode
+';lllll:' 'lXMMMKl'       'cKMMMKc'   '''   Hobby: hip Hop, football, gaming
+':llllll:':0WMW0c'         'cKWWNx, ,;;,    Other: 2021 OII finalist (Olimpiadi Italiane di Informatica)
 ':llloool:;cx0k:            ':doc::::;'     
 ':llooooool:;;,            ',;:cllc;,'      
  ,clooooooooolcc::;;;;:::cllodoc::lk0o'     contacts
