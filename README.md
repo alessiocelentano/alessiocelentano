@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**Nastybox/Nastybox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+$ celefetch
+            '''                             cele@italy
+          ',,'      ,:cc;'                  ----------
+        ';:,'     'l0NWWKl'                 Uptime: 18 years
+      ';c:,      'oXMMMMMXd,                Programming languages: Python, C++
+     ,:c:,      ,dNMMMMMMMNx,               OS: Arch Linux
+   ',clc,      ;xNMMWXOONMMWk;              DE: KDE Plasma
+  ';cll:'     ;OWMMNxc,,dNMMWO:'            WM: i3
+  ;clll;'   ':0WMMNd,   'oXMMW0c'           Shell: Zsh
+ ,cllll;'  'cKMMMXo'     'lKMMMKc'          Editor: Vim
+';lllll:' 'lXMMMKl'       'cKMMMKc'   '''   Passions: Hip Hop, Football, Gaming
+':llllll:':0WMW0c'         'cKWWNx, ,;;,    Other: OII (Olimpiadi Italiane di Informatica) finalist
+':llloool:;cx0k:            ':doc::::;'     
+':llooooool:;;,            ',;:cllc;,'      
+ ,clooooooooolcc::;;;;:::cllodoc::lk0o'     contacts
+  ,:looooooooddddddddddddddlc;, ,xNMMXo'    --------
+   ',:clooodddddddddoolc:;,'     :OWMMXl'   Telegram: t.me/Nastybox
+      ',;;:::::::;;,,''           ;xXXOc    Reddit: u/alessiocelentano
+                                   ',;,     Email: alessiocelentano2003@gmail.com
+```
