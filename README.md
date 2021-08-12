@@ -15,6 +15,6 @@ $ celefetch
 `;llooooool;;;,            `,;;cllc;,`      
  ,clooooooooolcc;;;;;;;;;cllodoc;;lk0o`     contacts
   ,;looooooooddddddddddddddlc;, ,xNMMXo`    --------
-   `,;clooodddddddddoolc;;,`     ;0WMMXl`   Telegram; "t.me/alessiocelentano"
+   `,;clooodddddddddoolc;;,`     ;0WMMXl`   Telegram; "t.me/nastybox"
       `,;;;;;;;;;;;,,``           ;xXXOc    Reddit; "u/alessiocelentano"
                                    `,;,     Email; "alessiocelentano2003@gmail.com"
