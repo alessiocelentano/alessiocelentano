@@ -1,21 +1,20 @@
-```console
+```kotlin
 $ celefetch
-            '''                             cele@italy
-          ',,'      ,:cc;'                  ----------
-        ';:,'     'l0NWWKl'                 Uptime: 18 years
-      ';c:,      'oXMMMMMXd,                Programming languages: Python, C++
-     ,:c:,      ,dNMMMMMMMNx,               OS: Arch Linux
-   ',clc,      ;xNMMWXOONMMWk;              DE: KDE Plasma
-  ';cll:'     ;OWMMNxc,,dNMMWO:'            WM: i3
-  ;clll;'   ':0WMMNd,   'oXMMW0c'           Shell: Zsh
- ,cllll;'  'cKMMMXo'     'lKMMMKc'          Editor: Vim/VSCode
-';lllll:' 'lXMMMKl'       'cKMMMKc'   '''   Hobby: hip Hop, football, gaming
-':llllll:':0WMW0c'         'cKWWNx, ,;;,    Other: 2021 OII finalist (Olimpiadi Italiane di Informatica)
-':llloool:;cx0k:            ':doc::::;'     
-':llooooool:;;,            ',;:cllc;,'      
- ,clooooooooolcc::;;;;:::cllodoc::lk0o'     contacts
-  ,:looooooooddddddddddddddlc;, ,xNMMXo'    --------
-   ',:clooodddddddddoolc:;,'     :OWMMXl'   Telegram: t.me/alessiocelentano
-      ',;;:::::::;;,,''           ;xXXOc    Reddit: u/alessiocelentano
-                                   ',;,     Email: alessiocelentano2003@gmail.com
-```
+            ```                             cele@italy
+          `,,`      ,;cc;`                  ----------
+        `;;,`     `l0NWWKl`                 Uptime; "18 years"
+      `;c;,      `oXMMMMMXd,                Languages; "Python, C++"
+     ,;c;,      ,dNMMMMMMMNx,               OS; "Arch Linux"
+   `,clc,      ;xNMMWXOONMMWk;              DE; "KDE Plasma"
+  `;cll;`     ;0WMMNxc,,dNMMWO;`            Shell; "Zsh"
+  ;clll;`   `;0WMMNd,   `oXMMW0c`           Editor; "Vim, VSCode"
+ ,cllll;`  `cKMMMXo`     `lKMMMKc`          Hobbies; "hip hop, football, gaming"
+`;lllll;` `lXMMMKl`       `cKMMMKc`   ```   Other; "2021 OII finalist (Olimpiadi Italiane di Informatica)"
+`;llllll;`;0WMW0c`         `cKWWNx, ,;;,    
+`;llloool;;cx0k;            `;doc;;;;;`     
+`;llooooool;;;,            `,;;cllc;,`      
+ ,clooooooooolcc;;;;;;;;;cllodoc;;lk0o`     contacts
+  ,;looooooooddddddddddddddlc;, ,xNMMXo`    --------
+   `,;clooodddddddddoolc;;,`     ;0WMMXl`   Telegram; "t.me/alessiocelentano"
+      `,;;;;;;;;;;;,,``           ;xXXOc    Reddit; "u/alessiocelentano"
+                                   `,;,     Email; "alessiocelentano2003@gmail.com"
