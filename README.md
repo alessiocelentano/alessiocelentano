@@ -7,7 +7,7 @@ $ celefetch
      ,;c;,      ,dNMMMMMMMNx,               OS; "Arch Linux"
    `,clc,      ;xNMMWXOONMMWk;              WM; "i3-gaps"
   `;cll;`     ;0WMMNxc,,dNMMWO;`            Shell; "Zsh"
-  ;clll;`   `;0WMMNd,   `oXMMW0c`           Editor; "Neovim, VSCode"
+  ;clll;`   `;0WMMNd,   `oXMMW0c`           Editor; "Neovim, VS Code"
  ,cllll;`  `cKMMMXo`     `lKMMMKc`          Hobbies; "hip hop, football, gaming"
 `;lllll;` `lXMMMKl`       `cKMMMKc`   ```   Other; "2021 OII finalist (Olimpiadi Italiane di Informatica)"
 `;llllll;`;0WMW0c`         `cKWWNx, ,;;,    
