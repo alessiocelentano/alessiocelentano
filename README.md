@@ -18,3 +18,6 @@ $ celefetch
    `,;clooodddddddddoolc;;,`     ;0WMMXl`   Telegram; "t.me/alessiocelentano"
       `,;;;;;;;;;;;,,``           ;xXXOc    Reddit; "u/alessiocelentano"
                                    `,;,     Email; "alessiocelentano2003@gmail.com"
+                                   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
