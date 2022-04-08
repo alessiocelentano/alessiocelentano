@@ -2,12 +2,12 @@
 $ celefetch
             ```                             cele@italy
           `,,`      ,;cc;`                  ----------
-        `;;,`     `l0NWWKl`                 Uptime: "18 years"
-      `;c;,      `oXMMMMMXd,                Languages: "Python, C++"
-     ,;c;,      ,dNMMMMMMMNx,               OS: "Arch Linux"
-   `,clc,      ;xNMMWXOONMMWk;              Editor: "Neovim"
-  `;cll;`     ;oWMMNxc,,dNMMWO;`            Shell: "Zsh"
-  ;clll;`   `;oWMMNd,   `oXMMW0c`           Hobbies: "hip hop, football, gaming"
+        `;;,`     `l0NWWKl`                 Uptime: "19 years"
+      `;c;,      `oXMMMMMXd,                Position: "Mirandola, Modena, Italy"
+     ,;c;,      ,dNMMMMMMMNx,               Languages: ["Python", "C++"]
+   `,clc,      ;xNMMWXOONMMWk;              OS: "Arch Linux"
+  `;cll;`     ;oWMMNxc,,dNMMWO;`            Editor: "Neovim"
+  ;clll;`   `;oWMMNd,   `oXMMW0c`           Hobbies: ["Hip Hop", "Football", "Gaming"]
  ,cllll;`  `cKMMMXo`     `lKMMMKc`          Other: "2021 OII finalist (Olimpiadi Italiane di Informatica)"
 `;lllll;` `lXMMMKl`       `cKMMMKc`   ```   
 `;llllll;`;oWMW0c`         `cKWWNx, ,;;,    
