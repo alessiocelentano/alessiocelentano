@@ -1,5 +1,5 @@
 # Alessio Celentano
-**🇮🇹 Italian 19 y/o developer**
+**🇮🇹 Italian 20 y/o developer**
 
 ## Skills
 
@@ -28,7 +28,7 @@
 $ celefetch
             ```                             cele@italy
           `,,`      ,;cc;`                  ----------
-        `;;,`     `l0NWWKl`                 Uptime: "19 years"
+        `;;,`     `l0NWWKl`                 Uptime: "20 years"
       `;c;,      `oXMMMMMXd,                Position: "Mirandola, Modena, Italy"
      ,;c;,      ,dNMMMMMMMNx,               Languages: ["Python", "C", "C++", "Kotlin"]
    `,clc,      ;xNMMWXOONMMWk;              OS: "Arch Linux"
