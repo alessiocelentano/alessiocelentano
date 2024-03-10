@@ -6,6 +6,7 @@
 - **Medium projects**
   - 👾 [**Tetrix**](https://github.com/alessiocelentano/tetrix): Tetris with Adafruit 16x32 RGB Matrix Led Panel and Arduino Uno.
   - ⚡️ [**Rotogram**](https://github.com/alessiocelentano/rotogram): The best Telegram bot about Pokémon to get every information in any chat.
+  - 🌐 [**MMc queue system simulator**](https://github.com/Network-Project-Unife/Simulation-of-an-MMC-queue-system): Graphs about a simulation of a MMc queue system
 - **Small projects and scripts**
   - 📱 [**Lazynite**](https://github.com/alessiocelentano/lazynite): A PC remote controller for YouTube and Twitch 
   - 🎵 [**Spotisort**](https://github.com/alessiocelentano/spotisort): A script to sort Spotify playlists by release date 
