@@ -1,5 +1,5 @@
 # Alessio Celentano
-**🇮🇹 Italian 20 y/o developer**
+**🇮🇹 Italian 21 y/o developer**
 
 ## Projects
 
@@ -16,7 +16,7 @@
 $ celefetch
             ```                             cele@italy
           `,,`      ,;cc;`                  ----------
-        `;;,`     `l0NWWKl`                 Uptime: "20 years"
+        `;;,`     `l0NWWKl`                 Uptime: "21 years"
       `;c;,      `oXMMMMMXd,                Position: "Modena, Italy"
      ,;c;,      ,dNMMMMMMMNx,               Languages: ["Python", "C", "C++", "Java"]
    `,clc,      ;xNMMWXOONMMWk;              OS: "MacOS"
