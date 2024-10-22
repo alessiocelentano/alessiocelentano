@@ -7,7 +7,7 @@
 
 [![](https://skillicons.dev/icons?i=git,github,mysql,arduino,vscode,neovim,latex,regex)](https://skillicons.dev)
 
-[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)](Alessio-Celentano-Resume,pdf)
+[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)](Alessio-Celentano-Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessiocelentano)
 [![Gmail](https://img.shields.io/badge/Gmail-F51115?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessiocelentano2003@gmail.com)
 
