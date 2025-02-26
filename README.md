@@ -1,7 +1,6 @@
 # Alessio Celentano
 - **🇮🇹 Italian 21 y/o developer**
 - BSc in Computer Science student @ [Universitá di Ferrara](https://corsi.unife.it/informatica)
-- Currently on Erasmus @ [Universidad de Murcia](https://www.um.es/web/estudios/grados/informatica)
 
 [![](https://skillicons.dev/icons?i=py,c,cpp,java,haskell,bash)](https://skillicons.dev)
 
