@@ -1,8 +1,9 @@
 # Alessio Celentano
-- **🇮🇹 Italian 21 y/o developer**
+- **🇮🇹 Italian 22 y/o developer**
 - BSc in Computer Science student @ [Universitá di Ferrara](https://corsi.unife.it/informatica)
+- Currently interning @ [AWS](https://github.com/aws)
 
-[![](https://skillicons.dev/icons?i=py,c,cpp,java,haskell,bash)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,c,cpp,java,bash)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=git,github,mysql,arduino,vscode,neovim,latex,regex)](https://skillicons.dev)
 
