@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/aesthetics/images/1/13/Dg_21.jpg/revision/latest?cb=20220606061309" height="300" align="left">
+<a href="https://youtu.be/oGPA9k86UcE?si=-nAyoCwZLPjQbG_0"><img src="https://static.wikia.nocookie.net/aesthetics/images/1/13/Dg_21.jpg/revision/latest?cb=20220606061309" height="300" align="left"></a>
 
 <div align="right"> <div align="left">
   <table>
@@ -14,7 +14,6 @@
   
   ⧼ music [[1](http://spotify.link/Locg64njxDb)] [[2](https://rateyourmusic.com/~globocs)] ✧ videogames [[3](https://backloggd.com/u/doublej/)] ✧ telegram [[4](https://t.me/alessiocelentano)] ✧ linkedin [[5](https://www.linkedin.com/in/alessiocelentano/)] ⧽
 
-  <img src="https://web.archive.org/web/20090831040529im_/http://geocities.com/benstinks8/Felix.gif">
+  <a href="https://youtu.be/zBN5ynkXsC8?si=OWiogqt_wohqMVcv"><img src="https://web.archive.org/web/20090831040529im_/http://geocities.com/benstinks8/Felix.gif"></a>
 
   </div> </div>
-
