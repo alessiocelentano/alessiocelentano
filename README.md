@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/aesthetics/images/1/13/Dg_21.jpg/revision/latest?cb=20220606061309" height="400" align="left">
+<img src="https://static.wikia.nocookie.net/aesthetics/images/1/13/Dg_21.jpg/revision/latest?cb=20220606061309" height="350" align="left">
 
 <div align="right"> <div align="left">
   <table>
