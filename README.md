@@ -12,7 +12,7 @@
 
   tinkering near the metal ∧ gnu/linux enthusiast ∧ obsessed with obsidian
   
-  ⧼ website [[1](https://alessiocelentano.github.io)] music [[2](http://spotify.link/Locg64njxDb)] [[3](https://rateyourmusic.com/~globocs)] ✧ videogames [[4](https://backloggd.com/u/doublej/)] ✧ telegram [[5](https://t.me/alessiocelentano)] ✧ linkedin [[6](https://www.linkedin.com/in/alessiocelentano/)] ⧽
+  ⧼ website [[1](https://alessiocelentano.github.io)] ✧ music [[2](http://spotify.link/Locg64njxDb)] [[3](https://rateyourmusic.com/~globocs)] ✧ videogames [[4](https://backloggd.com/u/doublej/)] ✧ telegram [[5](https://t.me/alessiocelentano)] ✧ linkedin [[6](https://www.linkedin.com/in/alessiocelentano/)] ⧽
 
   </br>
 
